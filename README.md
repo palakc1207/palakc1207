@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/palakc1207](https://github.com/palakc1207)
 
-- 📫 How to reach me **manishac7429@gmail.com**
+- 📫 How to reach me **palakc1207@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/palak-chaudhari-3806871b8](www.linkedin.com/in/palak-chaudhari-3806871b8)
 
