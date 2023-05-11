@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Chaudhari</h1>
-<h3 align="center">A third year student exploring new world of computer science.</h3>
+<h3 align="center">A final year engineering student exploring new world of computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakc1207&label=Profile%20views&color=0e75b6&style=flat" alt="palakc1207" /> </p>
 
