@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/palakchaudhari8" target="blank"><img src="https://img.shields.io/twitter/follow/palakchaudhari8?logo=twitter&style=for-the-badge" alt="palakchaudhari8" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/palakc1207](https://github.com/palakc1207)
 
